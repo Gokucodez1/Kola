@@ -1,0 +1,8 @@
+{
+  "bot_token": "",
+  "owner_id": "",
+  "deal_category_id": "",
+  "rate_channel_id": "",
+  "deal_timeout": 3600,
+  "min_amount": 0.1
+}
